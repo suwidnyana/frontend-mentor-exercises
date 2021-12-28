@@ -9,6 +9,11 @@ const projects = [
 		youtube:
 			'https://www.youtube.com/watch?v=8A7-0gsbHA0&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=3&t=0s'
 	},
+	{
+		name: 'order-summary-component-main',
+		youtube:
+			''
+	},
 	
 ];
 
